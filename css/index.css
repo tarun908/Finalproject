@@ -1,0 +1,36 @@
+body{
+    background-color:lightslategray;
+}
+.container{
+    background-color: white;
+    border: 7px solid black;
+    width: 400px;
+    height: 600px;
+    margin-left: 400px;
+}
+table{
+    width: 400px;
+    height: 582px;
+    
+}
+label{
+    margin-left: 10px;
+}
+input{
+    width: 370px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    /* display: inline-block; */
+    border: none;
+    background: #f1f1f1;
+}
+button{
+    background-color: black;
+    color: white;
+    margin-left:170px ;
+    width: 80px;
+    height: 40px;
+}
+.center-text{
+    text-align: center;
+}
